@@ -1,0 +1,1 @@
+🍏️🖥️7️⃣️📖️ The official documentation source repository for the Classic WacOS 7.x subsystem of WacOS, an open-source alternative to Classic MacOS 7.x/early Apple System 7. Part of the WacOS operating system project.
